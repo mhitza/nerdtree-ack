@@ -1,4 +1,4 @@
-This is a mirror of http://www.vim.org/scripts/script.php?script_id=3878
+~~This is a mirror of http://www.vim.org/scripts/script.php?script_id=3878~~
 
 This plugin add capability to search in folders via NERDtree. The search use ack.vim from the master branch (http://github.com/mileszs/ack.vim/tree/master).
 
@@ -8,7 +8,7 @@ This is ripped off from "NERDTree & ack" plugin (vimscript #3357) by Tudor Barbu
 
 1. Open NERDtree
 2. Point to a directory
-3. Press `ms`
+3. Press `mf`
 4. Enter search term (e.g. `control\ panel -i`)
 5. Profit!
 
