@@ -20,8 +20,8 @@ let g:loaded_nerdtree_ack = 1
 
 " add the new menu item via NERD_Tree's API
 call NERDTreeAddMenuItem({
-    \ 'text': '(s)earch directory',
-    \ 'shortcut': 's',
+    \ 'text': '(f)ind within files',
+    \ 'shortcut': 'f',
     \ 'callback': 'NERDTreeAck' })
 
 function! NERDTreeAck()
